@@ -3,7 +3,9 @@
 - 🌱 Studying **System Analysis and Development**
 - 💻 Exploring **Web Development** and **Data Analysis**
 - 📚 Currently learning **JavaScript**
-
+- 
+Site de cabeleireiro 
+cabeleireiro-three.vercel.app 
 ---
 
 ### 🛠️ Tech Stack
