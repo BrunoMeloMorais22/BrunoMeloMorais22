@@ -39,11 +39,5 @@ cabeleireiro-three.vercel.app
 
 ---
 
-### 📈 GitHub Stats
-
-![Bruno's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrunoMeloMorais22&show_icons=true&theme=react&hide_title=false)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoMeloMorais22&layout=compact&theme=react)
-
 ![Snake animation](https://github.com/BrunoMeloMorais22/BrunoMeloMorais22/blob/output/github-contribution-grid-snake.svg)
 
