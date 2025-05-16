@@ -20,7 +20,32 @@ cabeleireiro-three.vercel.app
 
 ---
 
+### 📊 GitHub Stats
+
+![Bruno's GitHub Stats](https://github-readme-stats.vercel.app/api?username=grumelo098&show_icons=true&theme=react&hide_title=false)
+
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grumelo098&layout=compact&theme=react)
+
+
+---
+
 ### 📬 Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/bruno-morais-6b0256235/)  
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:grumelo098@gmail.com)
+
+---
+
+---
+
+### 📈 GitHub Stats
+
+![Bruno's GitHub Stats](https://github-readme-stats.vercel.app/api?username=grumelo098&show_icons=true&theme=react&hide_title=false)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grumelo098&layout=compact&theme=react)
+
+![Snake animation](https://github.com/grumelo098/grumelo098/blob/output/github-contribution-grid-snake.svg)
+
