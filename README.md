@@ -3,7 +3,7 @@
 - 🌱 Studying **System Analysis and Development**
 - 💻 Exploring **Web Development** and **Data Analysis**
 - 📚 Currently learning **JavaScript**
-- 
+- 📚 Studying front-end and back-end
  
 cabeleireiro-three.vercel.app 
 ---
