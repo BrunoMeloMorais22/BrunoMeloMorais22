@@ -5,7 +5,7 @@
 - 📚 Currently learning **JavaScript**
 - 📚 Studying front-end and back-end
  
-cabeleireiro-three.vercel.app 
+portfolio-gamma-pearl-18.vercel.app 
 ---
 
 ### 🛠️ Tech Stack
