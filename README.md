@@ -25,7 +25,7 @@ portfolio-gamma-pearl-18.vercel.app
 
 ### 📊 GitHub Stats
 
-![Bruno's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrunoMeloMorais22&show_icons=true&theme=react&hide_title=false)
+![Bruno's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrunoMeloMorais22&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
 
 ---
